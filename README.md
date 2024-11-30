@@ -6,7 +6,9 @@ This repository contains the solutions to the **Object-Oriented Java Programming
 
 The repository is organized as follows:
 
-- **`src/`**: Contains Java source code files for each assignment question.
+- **`Assignment_1_all/`**: Contains Java source code files for each assignment 1 questions
+- **`Assignment_2_all/`**: Contains Java source code files for each assignment 2 questions
+- **`Assignment_3_all/`**: Contains Java source code files for each assignment 3 questions
 - **`docs/`**: (Optional) Documentation or additional notes, if applicable.
 - **`README.md`**: This file, providing an overview of the repository.
 
